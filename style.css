@@ -1,3 +1,35 @@
 body {
   font-family: "Noto Sans KR", sans-serif;
 }
+
+h1 {
+  font-size: 50px;
+}
+
+.orange-color {
+  color: orange;
+}
+
+.flexgible-containet {
+  display: flex;
+  padding-bottom: 150px;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 80px;
+}
+#text-aline {
+  padding-top: 50px;
+}
+.half-width img {
+  width: 80%;
+}
+.nice-button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(219, 158, 88), tomato);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
