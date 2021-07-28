@@ -47,3 +47,24 @@ h1 {
   background-image: url(./images/shapes/7.png);
   background-repeat: no-repeat;
 }
+
+.racipies-blog {
+  text-align: center;
+}
+.racipies-food img {
+  width: 100%;
+}
+
+.racipies-food {
+  width: 30%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+}
+
+.footer-section {
+  text-align: center;
+  background-color: rgb(66, 62, 62);
+}
